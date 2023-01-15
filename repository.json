@@ -1,0 +1,17 @@
+{
+  "author": "Kestutis Triponis",
+  "gitHubUrl": "https://github.com/ktriponis",
+  "payPalUrl": "https://www.paypal.com/donate/?business=WU76UY4TR85YG",
+  "packages": [
+    {
+      "id": "43a40f32-0133-4c2f-8207-41365a083dda",
+      "name": "Elgato Integrations",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/ktriponis/hubitat-elgato/main/packageManifest.json",
+      "description": "Allows integrating Elgato devices into your Hubitat system",
+      "tags": [
+        "Lights & Switches"
+      ]
+    }
+  ]
+}
